@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5507532
+  brandStrength: 0.9518224
+  lightness: 0.2831541
+  rhythmicContrast: 0.6971326
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+typography_spectrum: 0.3225806
+name: eViLz
